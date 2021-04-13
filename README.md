@@ -1,7 +1,7 @@
 # Introduction
 ARM Versatile/AB (ARM926EJ-S) μCOS-II V286u.
 
-# μC/OS-III
+# μC/OS-II
 
 µC/OS-II is based on µC/OS, The Real-Time Kernel which was first published in 1992. Thousands of people around the world are using µC/OS in all kinds of applications such as cameras, medical instruments, musical instruments, engine controls, network adapters, highway telephone call boxes, ATM machines, industrial robots, and many more. Nu merous colleges and Universities have also used µC/OS to teach students about real-time systems.
 
